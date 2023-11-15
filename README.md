@@ -31,4 +31,4 @@ procedure uniform_cost_search(start) is
 ```
 
 #### Leia mais
-Mais info.: https://courses.cs.washington.edu/courses/csep573/14sp/slides/2_BlindSearch.pdf
+(Mais info)[https://courses.cs.washington.edu/courses/csep573/14sp/slides/2_BlindSearch.pdf]
